@@ -19,7 +19,7 @@ https://t-arano.github.io/dmmix-ai-training/
 
 ## ファイル
 
-- index.html: 35枚のスライドと6点の教材を収録。単体でも使用できます。
+- index.html: 32枚のスライドと5点の教材を収録。単体でも使用できます。
 - .nojekyll: GitHub PagesでHTMLをそのまま配信するための設定。
 - robots.txt: 検索エンジン向けの設定。
 
