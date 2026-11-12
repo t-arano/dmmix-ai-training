@@ -4,12 +4,13 @@
 
 https://t-arano.github.io/dmmix-ai-training/
 
-第1回・第2回を選んで、研修資料とデモ教材を開けます。
+第1回・第2回と、独立したWorkspace Studio講座を選んで開けます。
 
 | 回 | 実施日 | 直接開くURL | 内容 |
 | --- | --- | --- | --- |
 | 第1回 | 2026年11月9日 | https://t-arano.github.io/dmmix-ai-training/lesson1/ | 32ページ・教材5点 |
 | 第2回 | 2026年11月13日 | https://t-arano.github.io/dmmix-ai-training/lesson2/ | 30ページ・教材13点 |
+| 別講座 | 実施日未定・60分 | https://t-arano.github.io/dmmix-ai-training/workspace-studio/ | 33ページ・教材14点 |
 
 「次へ」「前へ」または左右の矢印キーで進めます。
 「教材一覧」やデモページのボタンから本文を開き、コピー・TXT保存ができます。
