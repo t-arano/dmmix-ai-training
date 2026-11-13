@@ -17,8 +17,10 @@ Google Formsの相談回答から情報を抽出し、Sheetsへ記録。Gemini�
 フォーム編集（講師用）：https://docs.google.com/forms/d/1T5dqitFTfwuDCgHowXbP3w-R-I8poHUSeyXvQc-VJSk/edit
 相談台帳（講師用）：https://docs.google.com/spreadsheets/d/1tB8DUBfJQCBLIOO51WnTzEISGAFV9GGoBYvasPBphXQ/edit?usp=drivesdk
 保存先（講師用）：https://drive.google.com/drive/folders/15XmMk0NP9Eran3fUGuiaV4ZWLG5PKS5z
-フォームに架空のTR-001を1件登録し、受付を確認済みです。
-台帳は見出しのみ、保存先は空の状態で用意しています。Studioフローの実行は未検証です。
+完成フロー（講師用・停止中）：https://studio.workspace.google.com/workflow/t45da705c74447b5edc61dd51fc88a4ca?fromSource=6
+2026年11月13日、TR-001のテスト実行とTR-002の新規回答による自動実行を確認済み。
+台帳2行と対応メモ2件が作成され、日時・期限・未確定事項を元の回答と照合しました。
+実演時は完成フローを開き「オンにする」を押してから新しい回答を送信。終了後は「オフにする」で停止します。
 
 【参考動画】
 https://www.youtube.com/watch?v=-cJq_W6aW9k
@@ -26,7 +28,7 @@ https://www.youtube.com/watch?v=-cJq_W6aW9k
 
 【前提と確認範囲】
 教材の説明はGoogle公式情報を2026年11月13日に確認して作成しています。
-講師・受講者の契約、管理者設定、実環境のフロー動作は事前確認が必要です。
+講師の研修用環境で実行確認済みです。受講者の契約・管理者設定・各自のフローは事前確認が必要です。
 このHTMLは教材です。開くだけでフォームやフローを作ったり実行したりはしません。
 完成見本は学習用に用意した文章で、Studioで生成・保存した実行結果ではありません。
 Studioを利用できない参加者は、ワークシートで設計し、実行済みと分けて記録してください。
